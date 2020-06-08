@@ -1,0 +1,4 @@
+GET http://localhost:3000/deserts
+Content-Type: application/xml
+Authorization: {{
+    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmdWxsTmFtZSI6Ik1pbmNpdW5hIiwiZW1haWwiOiJtaW5jaXVuYUBnbWFpbC5jb20iLCJzZXNzaW9uSWQiOiIyOTE3Y2NlMTNkY2MxNjY2NWE0M2EzNmY0NWMzZWEyMmJmNWVkZTQ2YjU3MDg1Njc2ZTdmMWFkZTYzMjFlMDM3IiwiaWF0IjoxNTg5OTk0MTg1fQ.8cEIuTJlaiICUf2gL1EfZdxFPHvejIMbrfuITpapFxg }}
